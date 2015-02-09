@@ -1,0 +1,32 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-02-09 00:09:56 --> 404 Page Not Found --> CourseMap/index
+ERROR - 2015-02-09 00:10:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:15:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:15:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:15:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:15:55 --> Unable to select database: test
+ERROR - 2015-02-09 00:16:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:16:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:16:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:16:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:16:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:16:31 --> Unable to select database: test
+ERROR - 2015-02-09 00:16:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:19:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:19:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:19:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:19:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:19:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:19:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:19:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:19:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:19:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:21:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:21:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:24:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:25:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:25:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:26:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:26:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-02-09 00:29:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/public/system/database/drivers/mysql/mysql_driver.php 91

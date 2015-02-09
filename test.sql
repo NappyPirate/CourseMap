@@ -1,0 +1,35 @@
+CREATE DATABASE IF NOT EXISTS test;
+
+USE test;
+
+CREATE TABLE IF NOT EXISTS field_of_study
+(id INT NOT NULL, name VARCHAR(128), PRIMARY KEY(id));
+
+CREATE TABLE IF NOT EXISTS partner
+(id INT NOT NULL, name VARCHAR(128), PRIMARY KEY(id));
+
+CREATE TABLE IF NOT EXISTS partner_field_of_study
+(field_id INT NOT NULL, partner_id INT NOT NULL, 
+name VARCHAR(128), PRIMARY KEY(field_id,partner_id));
+
+
+LOAD DATA LOCAL INFILE './field_of_study.csv'
+INTO TABLE field_of_study
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE './partner.csv'
+INTO TABLE partner
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE './partner_field_of_study.csv'
+INTO TABLE partner_field_of_study
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS;
